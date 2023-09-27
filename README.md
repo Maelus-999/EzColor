@@ -5,4 +5,4 @@ This repo is for the Python package named 'EzColor'.
  ```
 pip install ezcolor
 ```
-2 • 
+2 • import the package in your script
